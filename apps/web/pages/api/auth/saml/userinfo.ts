@@ -23,7 +23,7 @@ const requestQuery = z.object({
   access_token: z.string(),
 });
 
-async function getHandler(req: NextApiRequest) {
+async function (req: NextApiRequest) {
   const { oauthController } = await jackson();
   const token = extractAuthToken(req);
   return await oauthController.userInfo(token);

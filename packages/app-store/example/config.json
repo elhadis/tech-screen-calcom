@@ -1,0 +1,19 @@
+{
+  "/*": "Don't modify slug - If required, do it using cli edit command",
+  "name": "Example",
+  "slug": "example",
+  "type": "example_calendar",
+  "imageSrc": "icon.svg",
+  "logo": "icon.svg",
+  "url": "https://example.com/link",
+  "variant": "calendar",
+  "categories": [
+    "calendar"
+  ],
+  "publisher": "elhadi",
+  "email": "",
+  "description": "fixing Issues",
+  "isTemplate": false,
+  "__createdUsingCli": true,
+  "__template": "basic"
+}

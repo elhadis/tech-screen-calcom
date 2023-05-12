@@ -61,7 +61,7 @@ PGSSLMODE=
 NEXTAUTH_URL='http://localhost:3000'
 # @see: https://next-auth.js.org/configuration/options#nextauth_secret
 # You can use: `openssl rand -base64 32` to generate one
-NEXTAUTH_SECRET=
+NEXTAUTH_SECRET="emPTrIRE5MjfkU7LdSrqkK5oO3uqCA8D+X6RudVv+fk="
 # Used for cross-domain cookie authentication
 NEXTAUTH_COOKIE_DOMAIN=
 
@@ -74,7 +74,7 @@ CRON_API_KEY='0cc0e6c35519bba620c9360cfe3e68d0'
 # Application Key for symmetric encryption and decryption
 # must be 32 bytes for AES256 encryption algorithm
 # You can use: `openssl rand -base64 24` to generate one
-CALENDSO_ENCRYPTION_KEY=
+CALENDSO_ENCRYPTION_KEY="vVGiwbA4w/O2TcV6Tw9Ye4etZ2BL7RrC"
 
 # Intercom Config
 NEXT_PUBLIC_INTERCOM_APP_ID=
